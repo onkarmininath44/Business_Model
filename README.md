@@ -1,3 +1,6 @@
+[📁 Open Google Drive Folder](https://drive.google.com/drive/folders/1htvwi_xznieHeb_CUt4c5sZZPy7CKSZZ?usp=drive_link)
+
+
 # Business_Model
 Tools-> My-SQL, Power-BI, MS-Excel
 # 📊 360 Business Insights
