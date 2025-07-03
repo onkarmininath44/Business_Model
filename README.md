@@ -11,7 +11,6 @@ Tools-> My-SQL, Power-BI, MS-Excel
 
 ---
 
-https://github.com/onkarmininath44/Business_Model/issues/1#issue-3197955296
 
 ## 🏁 Overview
 
