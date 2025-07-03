@@ -10,7 +10,7 @@ Tools-> My-SQL, Power-BI, MS-Excel
 **360 Business Insights** is an all-in-one business intelligence solution that provides analytical views across Finance, Sales, Marketing, and Supply Chain. This tool empowers businesses to make data-driven decisions through interactive dashboards.
 
 ---
-
+![Image](https://github.com/user-attachments/assets/d62237e5-b185-4215-ae5b-9b1e778f23f5)
 
 ## 🏁 Overview
 
